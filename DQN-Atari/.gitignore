@@ -1,0 +1,10 @@
+# Compiled
+*.pyc
+dqn/__pycache__/
+# Videos
+video/
+checkpoint.pth
+Atari-2600-VCS-ROM-Collection.zip
+rewards_per_episode.csv
+log
+atari_rom
